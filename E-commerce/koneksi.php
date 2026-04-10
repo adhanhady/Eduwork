@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db   = "toko";
+$db   = "ecommerce";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
